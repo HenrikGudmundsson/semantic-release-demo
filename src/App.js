@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          a fifth feature
+          a sixth feature
         </a>
       </header>
     </div>
